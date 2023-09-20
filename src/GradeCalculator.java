@@ -1,6 +1,6 @@
 // /*
 //*Author: Richard Sharp
-//*Date: 09/15/2023
+//*Date: 09/19/2023
 //*Class: Java
 //*project: Grade Calculator
 //*/
